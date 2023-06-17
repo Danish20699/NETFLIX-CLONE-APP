@@ -194,9 +194,9 @@ The outputs at the frontend,database and backend parts are attached below.
 
 ### Break down into end to end tests
 Front end:
-<img width=100%  src="Netflix-Home.png" alt="Project logo">
-<img width=100%  src="Netflix-Signup.png" alt="Project logo">
-<img width=100%  src="Netflix-login.png" alt="Project logo">
+<img width=100%  src="Netflix-1.png" alt="Project logo">
+<img width=100%  src="Netflix-2.png" alt="Project logo">
+<img width=100%  src="Netflix-3.png" alt="Project logo">
 
 ### And coding style tests
 During debugging,the output is shown below,
